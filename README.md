@@ -1,8 +1,8 @@
 # @inboxartisan/components
-@inboxartisan/components is a collection of reusable, thematic &amp; MUI-like components for building mail templates.
+`@inboxartisan/components` is a collection of reusable, thematic &amp; MUI-like components for building mail templates.
 
 ## Overview
-@inboxartisan/components is a collection of reusable, thematic & MUI-like components for building mail templates. It is built on top of react.email, which offers a collection of unstyled components which works on multiple mail clients. 
+`@inboxartisan/components` is a collection of reusable, thematic & MUI-like components for building mail templates. It is built on top of react.email, which offers a collection of unstyled components which works on multiple mail clients. 
 
 react.email provides a render utility [1] which converts a react component stored in a JSX/TSX file into an HTML file, but there's a catch, not all CSS properties and HTML elements are supported by all major mail clients, and so, typical component libraries like MUI and Chakra UI cannot be used directly for creating mail templates, as it might create inconsistencies across various mail clients. 
 So keeping this in mind, @inboxartisan/components is offering mail components that can work across most (>=90%) of the mail clients.
@@ -11,9 +11,11 @@ So keeping this in mind, @inboxartisan/components is offering mail components th
 ## Avoiding the vanilla way
 > Think of mail clients like outdated web browsers, which only support a limited number of HTML elements and CSS properties.
 
-Here's a simple example of CSS property that works on most web browsers, but won't work on most mail clients: A common way to add elevation to a container component (e.g., <div>) is by using a CSS property called box-shadow . As of Jul'23, only 56.1% of all major mail clients support this property [2]. Another common example is display: grid;. It is widely supported by most browsers, but it is only supported by 58.54% of all major mail clients [3]. 
+Here's a simple example of CSS property that works on most web browsers, but won't work on most mail clients: A common way to add elevation to a container component (e.g., `<div>`) is by using a CSS property called `box-shadow` . As of Jul'23, only 56.1% of all major mail clients support this property [2]. Another common example is `display: grid;`. It is widely supported by most browsers, but it is only supported by 58.54% of all major mail clients [3]. 
 
 Keeping track of which CSS properties or HTML elements can be used while building mail templates can give you migrane & this is a problem that we're trying to solve. 
+
+![Estimated support of `box-shadow` CSS property](https://1913075412-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fe6dBrizqX2znMBrdvk9k%2Fuploads%2FJphm4Xe5sPGxAhXDSCI7%2Fimage.png)
 
 
 ## Limited number of components
