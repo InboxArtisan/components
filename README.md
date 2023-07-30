@@ -15,7 +15,7 @@ Here's a simple example of CSS property that works on most web browsers, but won
 
 Keeping track of which CSS properties or HTML elements can be used while building mail templates can give you migrane & this is a problem that we're trying to solve. 
 
-![Estimated support of `box-shadow` CSS property](https://1913075412-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fe6dBrizqX2znMBrdvk9k%2Fuploads%2FJphm4Xe5sPGxAhXDSCI7%2Fimage.png?alt=media&token=b3b11198-dfab-494f-9938-9c623f1f11a2)
+![Estimated support of `box-shadow` CSS property in mail clients](https://1913075412-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fe6dBrizqX2znMBrdvk9k%2Fuploads%2FJphm4Xe5sPGxAhXDSCI7%2Fimage.png?alt=media&token=b3b11198-dfab-494f-9938-9c623f1f11a2) 
 
 
 ## Limited number of components
@@ -27,6 +27,8 @@ Keeping track of which CSS properties or HTML elements can be used while buildin
 
 ## Finally ...
 If you believe that despite all the improvements in mail clients, the following mail template is "okay" just because it gets the job done, then you should also be okay with web 1.0 style web apps. The whole point of this is to make beautiful and modern mail templates.
+
+![Default mail template for Firebase authentication](https://1913075412-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fe6dBrizqX2znMBrdvk9k%2Fuploads%2FuyVWuVeAnNiOPChfbkS4%2FFirebase%20Verification-1%20(1).png?alt=media&token=6aea90a2-2354-4612-9d52-b155e4078246)
 
 ## References
 [1] Render utility (react.email): https://react.email/docs/utilities/render
