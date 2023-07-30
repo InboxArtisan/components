@@ -11,7 +11,7 @@ So keeping this in mind, @inboxartisan/components is offering mail components th
 ## Avoiding the vanilla way
 > Think of mail clients like outdated web browsers, which only support a limited number of HTML elements and CSS properties.
 
-Here's a simple example of CSS property that works on most web browsers, but won't work on most mail clients: A common way to add elevation to a container component (e.g., `<div>`) is by using a CSS property called `box-shadow` . As of Jul'23, only 56.1% of all major mail clients support this property [2]. Another common example is `display: grid;`. It is widely supported by most browsers, but it is only supported by 58.54% of all major mail clients [3]. 
+Here's a simple example of a CSS property that works on most web browsers, but won't work on most mail clients: A common way to add elevation to a container component (e.g., `<div>`) is by using a CSS property called `box-shadow` . As of Jul'23, only 56.1% of all major mail clients support this property [2]. Another common example is `display: grid;`. It is widely supported by most browsers, but it is only supported by 58.54% of all major mail clients [3]. 
 
 Keeping track of which CSS properties or HTML elements can be used while building mail templates can give you migrane & this is a problem that we're trying to solve. 
 
