@@ -15,7 +15,7 @@ Here's a simple example of CSS property that works on most web browsers, but won
 
 Keeping track of which CSS properties or HTML elements can be used while building mail templates can give you migrane & this is a problem that we're trying to solve. 
 
-![Estimated support of `box-shadow` CSS property](https://1913075412-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fe6dBrizqX2znMBrdvk9k%2Fuploads%2FJphm4Xe5sPGxAhXDSCI7%2Fimage.png)
+![Estimated support of `box-shadow` CSS property](https://1913075412-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fe6dBrizqX2znMBrdvk9k%2Fuploads%2FJphm4Xe5sPGxAhXDSCI7%2Fimage.png?alt=media&token=b3b11198-dfab-494f-9938-9c623f1f11a2)
 
 
 ## Limited number of components
