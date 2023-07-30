@@ -1,5 +1,5 @@
 # @inboxartisan/components
-`@inboxartisan/components` is a collection of reusable, thematic &amp; MUI-like components for building mail templates.
+![IA components banner](https://1913075412-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fe6dBrizqX2znMBrdvk9k%2Fuploads%2F9tcdATlLUJhN6ULncwiH%2F%40inboxartisan_components%20(5).png?alt=media&token=3c7481c3-5bf4-4f8f-8f8f-561aafad0024)
 
 ## Overview
 `@inboxartisan/components` is a collection of reusable, thematic & MUI-like components for building mail templates. It is built on top of react.email, which offers a collection of unstyled components which works on multiple mail clients. 
