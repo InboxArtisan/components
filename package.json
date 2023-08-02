@@ -1,0 +1,29 @@
+{
+  "name": "@inboxartisan/components",
+  "version": "0.0.0",
+  "description": "@inboxartisan/components is a collection of reusable, thematic & MUI-like components for building mail templates",
+  "main": "index.js",
+  "scripts": {
+    "dev": "chmod +x ./scripts/dev.sh && bash ./scripts/dev.sh",
+    "export": "email export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InboxArtisan/components.git"
+  },
+  "keywords": [
+    "react",
+    "email",
+    "components"
+  ],
+  "author": "n00bgineer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/InboxArtisan/components/issues"
+  },
+  "homepage": "https://github.com/InboxArtisan/components#readme",
+  "dependencies": {
+    "@react-email/components": "^0.0.5",
+    "react-email": "^1.9.1"
+  }
+}
